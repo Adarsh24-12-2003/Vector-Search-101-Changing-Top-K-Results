@@ -1,0 +1,11 @@
+query,relevant_doc_ids,why
+I forgot my password and cannot sign in,KB-001|KB-002,Password recovery is primary; account lock may also matter.
+How can I get my money back after cancelling?,KB-004|KB-018,Paraphrase of refund and cancelled subscription/trial.
+E1042 import failed,KB-009,Exact error code should be retrieved precisely.
+I switched phones and lost my authentication app,KB-003,Semantic match to two-factor authentication device change.
+Why is my dashboard taking forever to load?,KB-019,Paraphrase of slow dashboard loading.
+download my personal information,KB-014|KB-013,Data export and deletion/retention are related privacy articles.
+change who owns the team workspace,KB-016|KB-017,Workspace ownership transfer and permissions are relevant.
+webhook event when an order ships,KB-020|KB-007,Webhook event is primary; shipment tracking is secondary.
+invoice has wrong GST number,KB-006,Invoice tax details and billing identity.
+prevent secret token exposure in GitHub,KB-021|KB-010,API key safety and token rotation/expiry.

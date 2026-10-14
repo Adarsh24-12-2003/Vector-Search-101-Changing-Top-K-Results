@@ -1,0 +1,5 @@
+.env
+.venv/
+vector_search/
+__pycache__/
+*.pyc
